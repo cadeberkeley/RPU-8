@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "OSKI-8_modules")(type "KiCad")(uri "${KIPRJMOD}/OSKI-8_modules.kicad_sym")(options "")(descr ""))
+)
