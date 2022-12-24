@@ -1,9 +1,9 @@
 ### Todo
 - [ ] Change all current PCB layouts to match new top layout (INST REG bus)
   - [x] Control
-  - [ ] Program Counter
-  - [ ] Register
-- [ ] Add decoupling capacitors for every 74xx IC
+  - [x] Program Counter
+  - [x] Register
+- [ ] Add decoupling capacitors for every 74xx IC (Vias to GND/PWR planes)
 - [ ] ISA
   - [ ] Figure out Load/Add Upper/Lower PC
 - [ ] Modules
