@@ -1283,9 +1283,8 @@
   )
 
   (gr_line (start 231.14 121.92) (end 91.44 121.92) (layer "Edge.Cuts") (width 0.1) (tstamp 3d915065-5399-4069-9efb-a75da9dddc72))
-  (gr_line (start 93.98 66.04) (end 231.14 66.04) (layer "Edge.Cuts") (width 0.1) (tstamp 6017093f-4a2b-4489-aebb-57634fcb293b))
   (gr_line (start 91.44 121.92) (end 91.44 66.04) (layer "Edge.Cuts") (width 0.1) (tstamp 6513cc8e-1314-4f4d-b6a4-dbf6ab91acb7))
-  (gr_line (start 91.44 66.04) (end 93.98 66.04) (layer "Edge.Cuts") (width 0.1) (tstamp a6a50e27-4bc6-4476-8104-3271ba934747))
+  (gr_line (start 91.44 66.04) (end 231.14 66.04) (layer "Edge.Cuts") (width 0.1) (tstamp aef4ae71-1e05-4215-b820-483039783f54))
   (gr_line (start 231.14 66.04) (end 231.14 121.92) (layer "Edge.Cuts") (width 0.1) (tstamp ea5be1cf-b74c-49db-a651-848071db285c))
   (gr_text "CADE CPU" (at 133.985 92.71) (layer "F.SilkS") (tstamp b9356537-aaa0-4534-a164-5835c277651b)
     (effects (font (size 1.5 1.5) (thickness 0.3)))

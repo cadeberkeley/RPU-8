@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "OSKI8_LEDS.kicad_pro",
+    "filename": "RPU-8_LEDS.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -409,11 +409,11 @@
     "net_format_name": "",
     "ngspice": {
       "fix_include_paths": true,
-      "fix_passive_vals": false,
+      "fix_passive_vals": true,
       "meta": {
         "version": 0
       },
-      "model_mode": 0,
+      "model_mode": 1,
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",

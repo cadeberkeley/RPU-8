@@ -1,6 +1,6 @@
 ### Todo
 - [ ] Change all current PCB layouts to match new top layout (INST REG bus)
-  - [ ] Control
+  - [x] Control
   - [ ] Program Counter
   - [ ] Register
 - [ ] Add decoupling capacitors for every 74xx IC
